@@ -4,7 +4,7 @@ Hi, I am a postdoctoral research fellow working with [Elena Gallo](https://publi
 
 Broadly speaking, I am interested in massive black holes (MBHs) and galaxies, with a strong focus on multiwavelength data covering from X-ray to radio. The symbolic interactions between galaxies and their MBHs have strongly shaped both populations. I have been using active galactic nuclei (AGNs) as probes to understand the MBH-galaxy coevolution across cosmic time. I have a broad spectrum of experience on this topic, covering low (i.e., data) to high (i.e., science) levels.
 
-Here is my [CV](files/CV_FanZou.pdf). You can find my publications [here](https://ui.adsabs.harvard.edu/public-libraries/yzJT8uBtSWiFxHXu9T26mw).
+Here is my [CV]. You can find my publications [here](https://ui.adsabs.harvard.edu/public-libraries/yzJT8uBtSWiFxHXu9T26mw).
 
 # Data
 [https://zenodo.org/records/10729248](https://zenodo.org/records/10729248)<br/>
