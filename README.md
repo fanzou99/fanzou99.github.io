@@ -6,6 +6,10 @@ Broadly speaking, I am interested in massive black holes (MBHs) and galaxies, wi
 
 Here is my [CV](files/CV_FanZou.pdf). You can find my publications [here](https://ui.adsabs.harvard.edu/public-libraries/yzJT8uBtSWiFxHXu9T26mw).
 
+# Research
+#### Survey data
+&emsp Spectral Energy Distributions in Three Deep-drilling Fields of the Vera C. Rubin Observatory Legacy Survey of Space and Time: Source Classification and Galaxy Properties ([Zou+22](https://ui.adsabs.harvard.edu/abs/2022ApJS..262...15Z/abstract))
+
 # Data
 [https://zenodo.org/records/10729248](https://zenodo.org/records/10729248)<br/>
 SMBH growth rate and accretion distribution as functions of galaxy stellar mass and redshift. See [Zou+24](https://ui.adsabs.harvard.edu/abs/2024ApJ...964..183Z/abstract).
