@@ -24,6 +24,14 @@ I list me first- or corresponding-author articles below. They are grouped by top
 </ul>
 <h4>&nbsp;&nbsp;&nbsp; Dwarf galaxies and intermediate-mass black holes</h4>
 <ul>
+  <li>Central Massive Black Holes Are Not Ubiquitous in Local Low-Mass Galaxies (Zou+submitted)</li>
+  <li>Identification and Characterization of a Large Sample of Distant Active Dwarf Galaxies in XMM-SERVS (<a href="https://ui.adsabs.harvard.edu/abs/2023ApJ...950..136Z/abstract">Zou+23</a>)</li>
+</ul>
+<h4>&nbsp;&nbsp;&nbsp; Dust-obscured galaxies</h4>
+<ul>
+  <li>The X-ray Link Between High Eddington Ratio Dust-Obscured Galaxies (DOGs) and Hot DOGs (Zou+submitted)</li>
+  <li>A Rapidly Accreting Active Galactic Nucleus Hidden in a Dust-obscured Galaxy at z ∼ 0.8 (<a href="https://ui.adsabs.harvard.edu/abs/2024ApJ...977..113C/abstract">Cristello+24b</a>)</li>
+  <li>X-ray properties of dust-obscured galaxies with broad optical/UV emission lines (<a href="https://ui.adsabs.harvard.edu/abs/2020MNRAS.499.1823Z/abstract">Zou+20</a>)</li>
 </ul>
 
 # Data
