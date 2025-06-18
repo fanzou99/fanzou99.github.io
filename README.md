@@ -9,11 +9,22 @@ Here is my [CV](files/CV_FanZou.pdf). You can find my publications [here](https:
 # Research
 I list me first- or corresponding-author articles below. They are grouped by topics.
 <h4>&nbsp;&nbsp;&nbsp; Survey data</h4>
-  <ul>
-    <li>Spectral Energy Distributions in Three Deep-drilling Fields of the Vera C. Rubin Observatory Legacy Survey of Space and Time: Source Classification and Galaxy Properties (<a href="https://ui.adsabs.harvard.edu/abs/2022ApJS..262...15Z/abstract">Zou+22</a>)</li>
-    <li>Photometric Redshifts in the W-CDF-S and ELAIS-S1 Fields Based on Forced Photometry from 0.36 to 4.5 Microns (<a href="https://ui.adsabs.harvard.edu/abs/2021RNAAS...5...56Z/abstract">Zou+21b</a>)</li>
-    <li>A Multi-band Forced-photometry Catalog in the ELAIS-S1 Field (<a href="https://ui.adsabs.harvard.edu/abs/2021RNAAS...5...31Z/abstract">Zou+21a</a>)</li>
-  </ul>
+<ul>
+  <li>Spectral Energy Distributions in Three Deep-drilling Fields of the Vera C. Rubin Observatory Legacy Survey of Space and Time: Source Classification and Galaxy Properties (<a href="https://ui.adsabs.harvard.edu/abs/2022ApJS..262...15Z/abstract">Zou+22</a>)</li>
+  <li>Photometric Redshifts in the W-CDF-S and ELAIS-S1 Fields Based on Forced Photometry from 0.36 to 4.5 Microns (<a href="https://ui.adsabs.harvard.edu/abs/2021RNAAS...5...56Z/abstract">Zou+21b</a>)</li>
+  <li>A Multi-band Forced-photometry Catalog in the ELAIS-S1 Field (<a href="https://ui.adsabs.harvard.edu/abs/2021RNAAS...5...31Z/abstract">Zou+21a</a>)</li>
+</ul>
+<h4>&nbsp;&nbsp;&nbsp; Correlation and coevolution between SMBHs and galaxies</h4>
+<ul>
+  <li>Investigating the Star Formation Characteristics of Radio Active Galactic Nuclei (<a href="https://ui.adsabs.harvard.edu/abs/2025ApJ...978....9Z/abstract">Zhang+25</a>)</li>
+  <li>Mapping the Growth of Supermassive Black Holes as a Function of Galaxy Stellar Mass and Redshift (<a href="https://ui.adsabs.harvard.edu/abs/2024ApJ...964..183Z/abstract">Zou+24b</a>)</li>
+  <li>The Cosmic Evolution of the Supermassive Black Hole Population: A Hybrid Observed Accretion and Simulated Mergers Approach (<a href="https://ui.adsabs.harvard.edu/abs/2024ApJ...976....6Z/abstract">Zou+24a</a>)</li>
+  <li>Investigating the Star Formation Rates of Active Galactic Nucleus Hosts Relative to the Star-forming Main Sequence (<a href="https://ui.adsabs.harvard.edu/abs/2024ApJ...962..156C/abstract">Cristello+24a</a>)</li>
+  <li>The Host-galaxy Properties of Type 1 versus Type 2 Active Galactic Nuclei (<a href="https://ui.adsabs.harvard.edu/abs/2019ApJ...878...11Z/abstract">Zou+19</a>)</li>
+</ul>
+<h4>&nbsp;&nbsp;&nbsp; Dwarf galaxies and intermediate-mass black holes</h4>
+<ul>
+</ul>
 
 # Data
 [https://zenodo.org/records/10729248](https://zenodo.org/records/10729248)<br/>
