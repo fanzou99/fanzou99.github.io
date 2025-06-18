@@ -10,11 +10,11 @@ Here is my [CV](files/CV_FanZou.pdf). You can find my publications [here](https:
 I list me first- or corresponding-author articles below. They are grouped by topics.
 <h3>&nbsp;&nbsp;&nbsp; Survey data</h3>
 <p>
-  Spectral Energy Distributions in Three Deep-drilling Fields of the Vera C. Rubin Observatory Legacy Survey of Space and Time: Source Classification and Galaxy Properties ([Zou+22](https://ui.adsabs.harvard.edu/abs/2022ApJS..262...15Z/abstract))
+  Spectral Energy Distributions in Three Deep-drilling Fields of the Vera C. Rubin Observatory Legacy Survey of Space and Time: Source Classification and Galaxy Properties (<a href="https://ui.adsabs.harvard.edu/abs/2022ApJS..262...15Z/abstract">Zou+22</a>)
   <br>
   Photometric Redshifts in the W-CDF-S and ELAIS-S1 Fields Based on Forced Photometry from 0.36 to 4.5 Microns ([Zou+21b](https://ui.adsabs.harvard.edu/abs/2021RNAAS...5...56Z/abstract))
   <br>
-  A Multi-band Forced-photometry Catalog in the ELAIS-S1 Field ([Zou+21a](https://ui.adsabs.harvard.edu/abs/2021RNAAS...5...31Z/abstract))
+  A Multi-band Forced-photometry Catalog in the ELAIS-S1 Field [Zou+21a](https://ui.adsabs.harvard.edu/abs/2021RNAAS...5...31Z/abstract))
 </p>
 
 # Data
