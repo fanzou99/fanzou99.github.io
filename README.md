@@ -9,13 +9,11 @@ Here is my [CV](files/CV_FanZou.pdf). You can find my publications [here](https:
 # Research
 I list me first- or corresponding-author articles below. They are grouped by topics.
 <h4>&nbsp;&nbsp;&nbsp; Survey data</h4>
-<p>
   <ul>
     <li>Spectral Energy Distributions in Three Deep-drilling Fields of the Vera C. Rubin Observatory Legacy Survey of Space and Time: Source Classification and Galaxy Properties (<a href="https://ui.adsabs.harvard.edu/abs/2022ApJS..262...15Z/abstract">Zou+22</a>)</li>
-    <li>Photometric Redshifts in the W-CDF-S and ELAIS-S1 Fields Based on Forced Photometry from 0.36 to 4.5 Microns ([Zou+21b](https://ui.adsabs.harvard.edu/abs/2021RNAAS...5...56Z/abstract))</li>
-    <li>A Multi-band Forced-photometry Catalog in the ELAIS-S1 Field [Zou+21a](https://ui.adsabs.harvard.edu/abs/2021RNAAS...5...31Z/abstract))</li>
+    <li>Photometric Redshifts in the W-CDF-S and ELAIS-S1 Fields Based on Forced Photometry from 0.36 to 4.5 Microns (<a href="https://ui.adsabs.harvard.edu/abs/2021RNAAS...5...56Z/abstract">Zou+21b</a>)</li>
+    <li>A Multi-band Forced-photometry Catalog in the ELAIS-S1 Field (<a href="https://ui.adsabs.harvard.edu/abs/2021RNAAS...5...31Z/abstract">Zou+21a</a>)</li>
   </ul>
-</p>
 
 # Data
 [https://zenodo.org/records/10729248](https://zenodo.org/records/10729248)<br/>
