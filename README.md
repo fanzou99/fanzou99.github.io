@@ -7,7 +7,7 @@ Broadly speaking, I am interested in massive black holes (MBHs) and galaxies, wi
 Here is my [CV](files/CV_FanZou.pdf). You can find my publications [here](https://ui.adsabs.harvard.edu/public-libraries/yzJT8uBtSWiFxHXu9T26mw).
 
 # Research
-I list me first- or corresponding-author articles below. They are grouped by topics.
+I list my first- or corresponding-author articles below. They are grouped by topics.
 <h4>&nbsp;&nbsp;&nbsp; Survey data</h4>
 <ul>
   <li>Spectral Energy Distributions in Three Deep-drilling Fields of the Vera C. Rubin Observatory Legacy Survey of Space and Time: Source Classification and Galaxy Properties (<a href="https://ui.adsabs.harvard.edu/abs/2022ApJS..262...15Z/abstract">Zou+22</a>; <a href="https://zenodo.org/communities/ddfdata/">data</a>)</li>
@@ -29,7 +29,7 @@ I list me first- or corresponding-author articles below. They are grouped by top
 </ul>
 <h4>&nbsp;&nbsp;&nbsp; Dust-obscured galaxies</h4>
 <ul>
-  <li>The X-ray Link Between High Eddington Ratio Dust-Obscured Galaxies (DOGs) and Hot DOGs (Zou+submitted)</li>
+  <li>The X-ray Link Between High Eddington Ratio Dust-Obscured Galaxies (DOGs) and Hot DOGs (Zou+in press)</li>
   <li>A Rapidly Accreting Active Galactic Nucleus Hidden in a Dust-obscured Galaxy at z ∼ 0.8 (<a href="https://ui.adsabs.harvard.edu/abs/2024ApJ...977..113C/abstract">Cristello+24b</a>)</li>
   <li>X-ray properties of dust-obscured galaxies with broad optical/UV emission lines (<a href="https://ui.adsabs.harvard.edu/abs/2020MNRAS.499.1823Z/abstract">Zou+20</a>)</li>
 </ul>
