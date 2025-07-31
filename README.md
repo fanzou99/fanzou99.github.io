@@ -29,7 +29,7 @@ I list my first- or corresponding-author articles below. They are grouped by top
 </ul>
 <h4>&nbsp;&nbsp;&nbsp; Dust-obscured galaxies</h4>
 <ul>
-  <li>The X-ray Link Between High Eddington Ratio Dust-Obscured Galaxies (DOGs) and Hot DOGs (Zou+in press)</li>
+  <li>The X-ray Link Between High Eddington Ratio Dust-Obscured Galaxies (DOGs) and Hot DOGs (<a href="https://ui.adsabs.harvard.edu/abs/2025arXiv250722206Z/abstract">Zou+25</a>)</li>
   <li>A Rapidly Accreting Active Galactic Nucleus Hidden in a Dust-obscured Galaxy at z ∼ 0.8 (<a href="https://ui.adsabs.harvard.edu/abs/2024ApJ...977..113C/abstract">Cristello+24b</a>)</li>
   <li>X-ray properties of dust-obscured galaxies with broad optical/UV emission lines (<a href="https://ui.adsabs.harvard.edu/abs/2020MNRAS.499.1823Z/abstract">Zou+20</a>)</li>
 </ul>
