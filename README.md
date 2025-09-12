@@ -16,7 +16,7 @@ I list my first- or corresponding-author articles below. They are grouped by top
 </ul>
 <h4>&nbsp;&nbsp;&nbsp; Correlation and coevolution between SMBHs and galaxies</h4>
 <ul>
-  <li>The X-ray Link Between High Eddington Ratio Dust-Obscured Galaxies (DOGs) and Hot DOGs (<a href="https://ui.adsabs.harvard.edu/abs/2025arXiv250722206Z/abstract">Zou+25</a>)</li>
+  <li>The X-ray Link Between High Eddington Ratio Dust-Obscured Galaxies (DOGs) and Hot DOGs (<a href="https://ui.adsabs.harvard.edu/abs/2025ApJ...990...94Z/abstract">Zou+25a</a>)</li>
   <li>Investigating the Star Formation Characteristics of Radio Active Galactic Nuclei (<a href="https://ui.adsabs.harvard.edu/abs/2025ApJ...978....9Z/abstract">Zhang+25</a>)</li>
   <li>Mapping the Growth of Supermassive Black Holes as a Function of Galaxy Stellar Mass and Redshift (<a href="https://ui.adsabs.harvard.edu/abs/2024ApJ...964..183Z/abstract">Zou+24b</a>; <a href="https://zenodo.org/records/10729248">data</a>)</li>
   <li>The Cosmic Evolution of the Supermassive Black Hole Population: A Hybrid Observed Accretion and Simulated Mergers Approach (<a href="https://ui.adsabs.harvard.edu/abs/2024ApJ...976....6Z/abstract">Zou+24a</a>)</li>
@@ -27,7 +27,7 @@ I list my first- or corresponding-author articles below. They are grouped by top
 </ul>
 <h4>&nbsp;&nbsp;&nbsp; Dwarf galaxies and intermediate-mass black holes</h4>
 <ul>
-  <li>Central Massive Black Holes Are Not Ubiquitous in Local Low-Mass Galaxies (Zou+submitted)</li>
+  <li>Central Massive Black Holes Are Not Ubiquitous in Local Low-Mass Galaxies (Zou+25b; in press)</li>
   <li>Identification and Characterization of a Large Sample of Distant Active Dwarf Galaxies in XMM-SERVS (<a href="https://ui.adsabs.harvard.edu/abs/2023ApJ...950..136Z/abstract">Zou+23</a>)</li>
 </ul>
 
