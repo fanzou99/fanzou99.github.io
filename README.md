@@ -7,7 +7,7 @@ Broadly speaking, I am interested in massive black holes (MBHs) and galaxies, wi
 Here is my [CV](files/CV_FanZou.pdf). You can find my publications [here](https://ui.adsabs.harvard.edu/public-libraries/yzJT8uBtSWiFxHXu9T26mw).
 
 # Research
-I list my first- or corresponding-author articles below. They are grouped by topics.
+I list my first- or corresponding-author articles below. They are grouped by topics. My most important results so far include: (i) Developing the multiwavelength data foundation in three Deep-Drilling Fields of the Vera C. Rubin Observatory Legacy Survey of Space and Time; (ii) Providing the most robust current constraintes on the MBH growth for massive galaxies between z=0-4; (iii) Demonstrating, for the first time, that MBHs are not ubiquitous at the center of low-mass galaxies.
 <h4>&nbsp;&nbsp;&nbsp; Survey data</h4>
 <ul>
   <li>Spectral Energy Distributions in Three Deep-drilling Fields of the Vera C. Rubin Observatory Legacy Survey of Space and Time: Source Classification and Galaxy Properties (<a href="https://ui.adsabs.harvard.edu/abs/2022ApJS..262...15Z/abstract">Zou+22</a>; <a href="https://zenodo.org/communities/ddfdata/">data</a>)</li>
@@ -27,7 +27,7 @@ I list my first- or corresponding-author articles below. They are grouped by top
 </ul>
 <h4>&nbsp;&nbsp;&nbsp; Dwarf galaxies and intermediate-mass black holes</h4>
 <ul>
-  <li>Central Massive Black Holes Are Not Ubiquitous in Local Low-Mass Galaxies (Zou+25b; in press)</li>
+  <li>Central Massive Black Holes Are Not Ubiquitous in Local Low-Mass Galaxies (<a href="https://ui.adsabs.harvard.edu/abs/2025ApJ...992..176Z/abstract">Zou+25b</a>)</li>
   <li>Identification and Characterization of a Large Sample of Distant Active Dwarf Galaxies in XMM-SERVS (<a href="https://ui.adsabs.harvard.edu/abs/2023ApJ...950..136Z/abstract">Zou+23</a>)</li>
 </ul>
 
