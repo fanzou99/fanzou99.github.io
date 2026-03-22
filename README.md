@@ -39,8 +39,8 @@ I list my first- or corresponding-author articles below. They are grouped by top
 <ul>
   <li>2025 December, <b>NASA's Chandra Finds Small Galaxies May Buck the Black Hole Trend</b><br>
     <a href="https://chandra.harvard.edu/press/25_releases/press_121125.html">Chandra</a>,
-    <a href="https://news.umich.edu/black-hole-ier-than-thou-not-every-galaxy-may-have-its-own-supermassive-black-hole-after-all/">U of M</a>,
-    <a href="https://attheu.utah.edu/facultystaff/nasas-chandra-finds-small-galaxies-buck-the-black/">U of U</a>,
+    <a href="https://news.umich.edu/black-hole-ier-than-thou-not-every-galaxy-may-have-its-own-supermassive-black-hole-after-all/">UMich</a>,
+    <a href="https://attheu.utah.edu/facultystaff/nasas-chandra-finds-small-galaxies-buck-the-black/">Utah</a>,
     <a href="https://www.psu.edu/news/eberly-college-science/story/small-galaxies-often-lack-supermassive-black-hole-cores">Penn State</a>
   </li>
   <li>2024 June, <b>How do Supermassive Black Holes Get Super Massive?</b><br>
