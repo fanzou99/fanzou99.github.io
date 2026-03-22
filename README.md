@@ -35,6 +35,21 @@ I list my first- or corresponding-author articles below. They are grouped by top
   <li>Identification and Characterization of a Large Sample of Distant Active Dwarf Galaxies in XMM-SERVS (<a href="https://ui.adsabs.harvard.edu/abs/2023ApJ...950..136Z/abstract">Zou+23</a>)</li>
 </ul>
 
+# Press releases
+<ul>
+  <li>2025 December, <b>NASA's Chandra Finds Small Galaxies May Buck the Black Hole Trend</b><br>
+    <a href="https://chandra.harvard.edu/press/25_releases/press_121125.html">Chandra</a>,
+    <a href="https://news.umich.edu/black-hole-ier-than-thou-not-every-galaxy-may-have-its-own-supermassive-black-hole-after-all/">U of M</a>,
+    <a href="https://attheu.utah.edu/facultystaff/nasas-chandra-finds-small-galaxies-buck-the-black/">U of U</a>,
+    <a href="https://www.psu.edu/news/eberly-college-science/story/small-galaxies-often-lack-supermassive-black-hole-cores">Penn State</a>
+  </li>
+  <li>2024 June, <b>How do Supermassive Black Holes Get Super Massive?</b><br>
+    <a href="https://www.psu.edu/news/eberly-college-science/story/how-do-supermassive-black-holes-get-super-massive">Penn State</a>,
+    <a href="https://chandra.harvard.edu/press/24_releases/press_061124.html">Chandra</a>,
+    <a href="https://theconversation.com/supermassive-black-holes-have-masses-of-more-than-a-million-suns-but-their-growth-has-slowed-as-the-universe-has-aged-233396">The Conversation</a>
+  </li>
+</ul>
+
 # External links
 [Extreme Astrophysics Seminar at UMich](https://sites.google.com/umich.edu/extreme-astroph/)<br/>
 [The XMM-SERVS Survey](https://personal.science.psu.edu/wnb3/xmmservs/xmmservs.html)<br/>
