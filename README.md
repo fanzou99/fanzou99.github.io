@@ -40,7 +40,7 @@ I list my first- or corresponding-author articles below. They are grouped by top
   <li>2026 March, <b>Chandra Resolves Why Black Holes Hit the Brakes on Growth</b><br>
     <a href="https://chandra.si.edu/press/26_releases/press_032426.html">Chandra</a>,
     Penn State,
-    UMich
+    <a href="https://news.umich.edu/why-black-holes-hit-the-brakes-on-growth/">UMich</a>
   </li>
   <li>2025 December, <b>NASA's Chandra Finds Small Galaxies May Buck the Black Hole Trend</b><br>
     <a href="https://chandra.harvard.edu/press/25_releases/press_121125.html">Chandra</a>,
