@@ -15,17 +15,17 @@ I list my first- or corresponding-author articles below. They are grouped by pri
 <h4>&nbsp;&nbsp;&nbsp; Survey data</h4>
 <ul>
   <li>Spectral Energy Distributions in Three Deep-drilling Fields of the Vera C. Rubin Observatory Legacy Survey of Space and Time: Source Classification and Galaxy Properties (<a href="https://ui.adsabs.harvard.edu/abs/2022ApJS..262...15Z/abstract">Zou+22</a>; <a href="https://zenodo.org/communities/ddfdata/">data</a>)</li>
-  <li>Photometric Redshifts in the W-CDF-S and ELAIS-S1 Fields Based on Forced Photometry from 0.36 to 4.5 Microns (<a href="https://ui.adsabs.harvard.edu/abs/2021RNAAS...5...56Z/abstract">Zou+21b</a>; <a href="https://zenodo.org/record/4603178">data</a>)</li>
   <li>A Multi-band Forced-photometry Catalog in the ELAIS-S1 Field (<a href="https://ui.adsabs.harvard.edu/abs/2021RNAAS...5...31Z/abstract">Zou+21a</a>; <a href="https://zenodo.org/record/4568485">data</a>)</li>
+  <li>Photometric Redshifts in the W-CDF-S and ELAIS-S1 Fields Based on Forced Photometry from 0.36 to 4.5 Microns (<a href="https://ui.adsabs.harvard.edu/abs/2021RNAAS...5...56Z/abstract">Zou+21b</a>; <a href="https://zenodo.org/record/4603178">data</a>)</li>
 </ul>
 <h4>&nbsp;&nbsp;&nbsp; Correlation and coevolution between SMBHs and galaxies</h4>
 <ul>
-  <li>The X-ray Link Between High Eddington Ratio Dust-Obscured Galaxies (DOGs) and Hot DOGs (<a href="https://ui.adsabs.harvard.edu/abs/2025ApJ...990...94Z/abstract">Zou+25a</a>)</li>
   <li>Investigating the Star Formation Characteristics of Radio Active Galactic Nuclei (<a href="https://ui.adsabs.harvard.edu/abs/2025ApJ...978....9Z/abstract">Zhang+25</a>)</li>
-  <li>Mapping the Growth of Supermassive Black Holes as a Function of Galaxy Stellar Mass and Redshift (<a href="https://ui.adsabs.harvard.edu/abs/2024ApJ...964..183Z/abstract">Zou+24b</a>; <a href="https://zenodo.org/records/10729248">data</a>)</li>
+  <li>The X-ray Link Between High Eddington Ratio Dust-Obscured Galaxies (DOGs) and Hot DOGs (<a href="https://ui.adsabs.harvard.edu/abs/2025ApJ...990...94Z/abstract">Zou+25a</a>)</li>
   <li>The Cosmic Evolution of the Supermassive Black Hole Population: A Hybrid Observed Accretion and Simulated Mergers Approach (<a href="https://ui.adsabs.harvard.edu/abs/2024ApJ...976....6Z/abstract">Zou+24a</a>)</li>
-  <li>A Rapidly Accreting Active Galactic Nucleus Hidden in a Dust-obscured Galaxy at z ∼ 0.8 (<a href="https://ui.adsabs.harvard.edu/abs/2024ApJ...977..113C/abstract">Cristello+24b</a>)</li>
+  <li>Mapping the Growth of Supermassive Black Holes as a Function of Galaxy Stellar Mass and Redshift (<a href="https://ui.adsabs.harvard.edu/abs/2024ApJ...964..183Z/abstract">Zou+24b</a>; <a href="https://zenodo.org/records/10729248">data</a>)</li>
   <li>Investigating the Star Formation Rates of Active Galactic Nucleus Hosts Relative to the Star-forming Main Sequence (<a href="https://ui.adsabs.harvard.edu/abs/2024ApJ...962..156C/abstract">Cristello+24a</a>)</li>
+  <li>A Rapidly Accreting Active Galactic Nucleus Hidden in a Dust-obscured Galaxy at z ∼ 0.8 (<a href="https://ui.adsabs.harvard.edu/abs/2024ApJ...977..113C/abstract">Cristello+24b</a>)</li>
   <li>X-ray properties of dust-obscured galaxies with broad optical/UV emission lines (<a href="https://ui.adsabs.harvard.edu/abs/2020MNRAS.499.1823Z/abstract">Zou+20</a>)</li>
   <li>The Host-galaxy Properties of Type 1 versus Type 2 Active Galactic Nuclei (<a href="https://ui.adsabs.harvard.edu/abs/2019ApJ...878...11Z/abstract">Zou+19</a>)</li>
 </ul>
