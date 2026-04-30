@@ -37,7 +37,7 @@ I list my first- or corresponding-author articles below. They are grouped by pri
 </ul>
 <h4>&nbsp;&nbsp;&nbsp; Other things that do not strictly belong to any of the categories above</h4>
 <ul>
-  <li>Revisiting the Claim for a Direct-Collapse Black Hole in UHZ1 at z = 10.05 (<a href="https://ui.adsabs.harvard.edu/abs/2026arXiv260324893Z/abstract">Zou+26</a>)</li>
+  <li>Revisiting the Claim for a Direct-Collapse Black Hole in UHZ1 at z = 10.05 (<a href="https://ui.adsabs.harvard.edu/abs/2026arXiv260324893Z/abstract">Zou+26</a>; under review)</li>
 </ul>
 
 # Press releases
