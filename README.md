@@ -11,7 +11,7 @@ My most important results so far include:<br>
 (i) Developing the multiwavelength data foundation in three Deep-Drilling Fields of the Vera C. Rubin Observatory Legacy Survey of Space and Time;<br>
 (ii) Providing the most robust current constraintes on the MBH growth for massive galaxies between z=0-4;<br>
 (iii) Demonstrating, for the first time, that MBHs are not ubiquitous at the center of low-mass galaxies.<br>
-I list my first- or corresponding-author articles below. They are grouped by topics.
+I list my first- or corresponding-author articles below. They are grouped by primary topics.
 <h4>&nbsp;&nbsp;&nbsp; Survey data</h4>
 <ul>
   <li>Spectral Energy Distributions in Three Deep-drilling Fields of the Vera C. Rubin Observatory Legacy Survey of Space and Time: Source Classification and Galaxy Properties (<a href="https://ui.adsabs.harvard.edu/abs/2022ApJS..262...15Z/abstract">Zou+22</a>; <a href="https://zenodo.org/communities/ddfdata/">data</a>)</li>
@@ -29,11 +29,15 @@ I list my first- or corresponding-author articles below. They are grouped by top
   <li>X-ray properties of dust-obscured galaxies with broad optical/UV emission lines (<a href="https://ui.adsabs.harvard.edu/abs/2020MNRAS.499.1823Z/abstract">Zou+20</a>)</li>
   <li>The Host-galaxy Properties of Type 1 versus Type 2 Active Galactic Nuclei (<a href="https://ui.adsabs.harvard.edu/abs/2019ApJ...878...11Z/abstract">Zou+19</a>)</li>
 </ul>
-<h4>&nbsp;&nbsp;&nbsp; Dwarf galaxies and intermediate-mass black holes</h4>
+<h4>&nbsp;&nbsp;&nbsp; Low-mass galaxies and (potentially) intermediate-mass black holes</h4>
 <ul>
   <li>A Rare Eddington-Limited, Heavily Obscured Low-Mass Active Galactic Nucleus Likely Triggered by a Galaxy Merger (<a href="https://arxiv.org/abs/2604.26743">Wang+26</a>)</li>
   <li>Central Massive Black Holes Are Not Ubiquitous in Local Low-Mass Galaxies (<a href="https://ui.adsabs.harvard.edu/abs/2025ApJ...992..176Z/abstract">Zou+25b</a>)</li>
   <li>Identification and Characterization of a Large Sample of Distant Active Dwarf Galaxies in XMM-SERVS (<a href="https://ui.adsabs.harvard.edu/abs/2023ApJ...950..136Z/abstract">Zou+23</a>)</li>
+</ul>
+<h4>&nbsp;&nbsp;&nbsp; Other things that do not strictly belong to any of the categories above</h4>
+<ul>
+  <li>Revisiting the Claim for a Direct-Collapse Black Hole in UHZ1 at z = 10.05 (<a href="https://ui.adsabs.harvard.edu/abs/2026arXiv260324893Z/abstract">Zou+26</a>)</li>
 </ul>
 
 # Press releases
