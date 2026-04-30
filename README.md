@@ -35,7 +35,7 @@ I list my first- or corresponding-author articles below. They are grouped by pri
   <li>Central Massive Black Holes Are Not Ubiquitous in Local Low-Mass Galaxies (<a href="https://ui.adsabs.harvard.edu/abs/2025ApJ...992..176Z/abstract">Zou+25b</a>)</li>
   <li>Identification and Characterization of a Large Sample of Distant Active Dwarf Galaxies in XMM-SERVS (<a href="https://ui.adsabs.harvard.edu/abs/2023ApJ...950..136Z/abstract">Zou+23</a>)</li>
 </ul>
-<h4>&nbsp;&nbsp;&nbsp; Other things that do not strictly belong to any of the categories above</h4>
+<h4>&nbsp;&nbsp;&nbsp; Other things that do not strictly belong to the categories above</h4>
 <ul>
   <li>Revisiting the Claim for a Direct-Collapse Black Hole in UHZ1 at z = 10.05 (<a href="https://ui.adsabs.harvard.edu/abs/2026arXiv260324893Z/abstract">Zou+26</a>; under review)</li>
 </ul>
