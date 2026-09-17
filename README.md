@@ -14,6 +14,7 @@ My most important results so far include:<br>
 I list my first- or corresponding-author articles below. They are grouped by primary topics.
 <h4>&nbsp;&nbsp;&nbsp; Survey data</h4>
 <ul>
+  <li>Chandra Lensing-cluster Ultradeep Extragalactic Survey (CLUES) I: A 2 Ms Point-Source Catalog of the Abell 2744 Field (<a href="https://arxiv.org/abs/2609.17673">Wang+26</a>; <a href="https://github.com/sywang0302/CLUES">data</a>; under review)</li>
   <li>Spectral Energy Distributions in Three Deep-drilling Fields of the Vera C. Rubin Observatory Legacy Survey of Space and Time: Source Classification and Galaxy Properties (<a href="https://ui.adsabs.harvard.edu/abs/2022ApJS..262...15Z/abstract">Zou+22</a>; <a href="https://zenodo.org/communities/ddfdata/">data</a>)</li>
   <li>A Multi-band Forced-photometry Catalog in the ELAIS-S1 Field (<a href="https://ui.adsabs.harvard.edu/abs/2021RNAAS...5...31Z/abstract">Zou+21a</a>; <a href="https://zenodo.org/record/4568485">data</a>)</li>
   <li>Photometric Redshifts in the W-CDF-S and ELAIS-S1 Fields Based on Forced Photometry from 0.36 to 4.5 Microns (<a href="https://ui.adsabs.harvard.edu/abs/2021RNAAS...5...56Z/abstract">Zou+21b</a>; <a href="https://zenodo.org/record/4603178">data</a>)</li>
