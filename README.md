@@ -14,7 +14,7 @@ My most important results so far include:<br>
 I list my first- or corresponding-author articles below. They are grouped by primary topics.
 <h4>&nbsp;&nbsp;&nbsp; Survey data</h4>
 <ul>
-  <li>Chandra Lensing-cluster Ultradeep Extragalactic Survey (CLUES) I: A 2 Ms Point-Source Catalog of the Abell 2744 Field (<a href="https://arxiv.org/abs/2609.17673">Wang+26</a>; <a href="https://github.com/sywang0302/CLUES">data</a>; under review)</li>
+  <li>Chandra Lensing-cluster Ultradeep Extragalactic Survey (CLUES) I: A 2 Ms Point-Source Catalog of the Abell 2744 Field (<a href="https://arxiv.org/abs/2609.17673">Wang+26b</a>; <a href="https://github.com/sywang0302/CLUES">data</a>; under review)</li>
   <li>Spectral Energy Distributions in Three Deep-drilling Fields of the Vera C. Rubin Observatory Legacy Survey of Space and Time: Source Classification and Galaxy Properties (<a href="https://ui.adsabs.harvard.edu/abs/2022ApJS..262...15Z/abstract">Zou+22</a>; <a href="https://zenodo.org/communities/ddfdata/">data</a>)</li>
   <li>A Multi-band Forced-photometry Catalog in the ELAIS-S1 Field (<a href="https://ui.adsabs.harvard.edu/abs/2021RNAAS...5...31Z/abstract">Zou+21a</a>; <a href="https://zenodo.org/record/4568485">data</a>)</li>
   <li>Photometric Redshifts in the W-CDF-S and ELAIS-S1 Fields Based on Forced Photometry from 0.36 to 4.5 Microns (<a href="https://ui.adsabs.harvard.edu/abs/2021RNAAS...5...56Z/abstract">Zou+21b</a>; <a href="https://zenodo.org/record/4603178">data</a>)</li>
@@ -32,13 +32,14 @@ I list my first- or corresponding-author articles below. They are grouped by pri
 </ul>
 <h4>&nbsp;&nbsp;&nbsp; Low-mass galaxies and (potentially) intermediate-mass black holes</h4>
 <ul>
-  <li>A Rare Eddington-Limited, Heavily Obscured Low-Mass Active Galactic Nucleus Likely Triggered by a Galaxy Merger (<a href="https://arxiv.org/abs/2604.26743">Wang+26</a>)</li>
+  <li>A Rare Eddington-Limited, Heavily Obscured Low-Mass Active Galactic Nucleus Likely Triggered by a Galaxy Merger (<a href="https://scixplorer.org/abs/2026ApJ..1003..172W/abstract">Wang+26a</a>)</li>
+  <li>Pushing Variability Searches to Extreme Dwarf Galaxies with the Vera C. Rubin Observatory Data Preview 2 (<a href="https://ui.adsabs.harvard.edu/abs/2026arXiv261010755Z/abstract">Zou+26a</a>)</li>
   <li>Central Massive Black Holes Are Not Ubiquitous in Local Low-Mass Galaxies (<a href="https://ui.adsabs.harvard.edu/abs/2025ApJ...992..176Z/abstract">Zou+25b</a>)</li>
   <li>Identification and Characterization of a Large Sample of Distant Active Dwarf Galaxies in XMM-SERVS (<a href="https://ui.adsabs.harvard.edu/abs/2023ApJ...950..136Z/abstract">Zou+23</a>)</li>
 </ul>
 <h4>&nbsp;&nbsp;&nbsp; Other things that do not strictly belong to the categories above</h4>
 <ul>
-  <li>Revisiting the Claim for a Direct-Collapse Black Hole in UHZ1 at z = 10.05 (<a href="https://ui.adsabs.harvard.edu/abs/2026arXiv260324893Z/abstract">Zou+26</a>)</li>
+  <li>Revisiting the Claim for a Direct-Collapse Black Hole in UHZ1 at z = 10.05 (<a href="https://scixplorer.org/abs/2026arXiv260324893Z/abstract">Zou+26b</a>)</li>
 </ul>
 
 # Press releases
